@@ -1,0 +1,1 @@
+_The day zero attack is an attack against an application or system that aims to execute malicious code thanks to the knowledge of vulnerabilities that are unknown to people and the product manufacturer._
