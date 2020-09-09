@@ -1,1 +1,1 @@
-_*Let's learn about GIT.*_
+_*Let's learn about GIT*_
